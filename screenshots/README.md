@@ -1,10 +1,10 @@
 ## Screenshots
 
 ### Screenshot 1
-![Add farmer](screenshots/screenshot1.png)
+![Add farmer]
 
 ### Screenshot 2
-![Get Farmer By Id](screenshots/screenshot2.png)
+![Get Farmer By Id]
 
 ### Screenshot 3
-![Get all Farmers](screenshots/screenshot3.png)
+![Get all Farmers]
